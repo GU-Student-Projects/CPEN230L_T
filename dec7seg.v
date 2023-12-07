@@ -1,5 +1,5 @@
 // CPEN 230L lab 8, BCD to 7-segment display decoder
-// Rick Nungester, 2/27/16
+// Rick Nungester, 2/27/16, Modified by Daniel Hong 11/16/23 to Hex-compatible version
 
 module dec7seg (
   input [3:0] bcd_i,     // BCD digit in
